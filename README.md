@@ -3,9 +3,9 @@
 <div>
   <a href="https://github.com/MateusLopesDev">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=MateusLopesDev&show_icons=true&theme=tokyonight"/>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLopesDev&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="150em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MateusLopesDev&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
-
+  
 ## My Skills 
 <div style="display: inline_block"> <br>
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
